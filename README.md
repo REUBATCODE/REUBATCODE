@@ -16,6 +16,5 @@ A budding software developer with a passion for Machine Learning and Web Develop
 
 ## Find Me On
 - [LinkedIn](https://www.linkedin.com/in/ruben-bernardo-ruiz-vega-237791295/)
-- [Twitter](https://twitter.com/REUBATCODE)
 ---
 
