@@ -1,4 +1,4 @@
-# Hello, I'm Ruben Vega 👋
+# Hello, I am Ruben Vega 👋
 A budding software developer with a passion for Machine Learning and Web Development, always ready to explore the depths of code and stories.
 
 ## About Me
