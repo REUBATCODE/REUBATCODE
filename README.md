@@ -4,7 +4,7 @@ A budding software developer with a passion for Machine Learning and Web Develop
 ## About Me
 - 🎓 Studying Software Development at Hermosillo Technological University (UTH).
 - 👨‍💻 Passionate about Security and Linux.
-- 🌱 Currently learning Python 3.
+- 🌱 Intern at Ford.
 - 📫 Reach me: a22311151@uthermosillo.edu.mx
 
 ## My Hobbies
