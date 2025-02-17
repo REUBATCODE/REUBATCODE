@@ -2,10 +2,10 @@
 A budding software developer with a passion for Machine Learning and Web Development, always ready to explore the depths of code and stories.
 
 ## About Me
-- 🎓 Studying Software Development at Hermosillo Technological University (UTH).
-- 👨‍💻 Passionate about Security and Linux.
-- 🌱 Intern at Ford.
-- 📫 Reach me: a22311151@uthermosillo.edu.mx
+- 🎓 Software Engineer.
+- 👨‍💻 Microsoft Power Stack (Power App, Power BI, Power Automate, Microsoft Sharepoint), Python.
+- 🚗 Paint Department Trainee at Ford HSAP.
+- 📫 Reach me: rruizveg@gmail.com
 
 ## My Hobbies
 - Reading & Writing Stories. Like novels (in paper) and visual novels.
