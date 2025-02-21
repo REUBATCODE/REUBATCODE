@@ -15,6 +15,6 @@ A budding software developer with a passion for Machine Learning and Web Develop
 - Programming Languages: Python 3, Javascript, PHP.
 
 ## Find Me On
-- [LinkedIn](www.linkedin.com/in/ruben-ruiz-237791295)
+- [LinkedIn](https://www.linkedin.com/in/ruben-ruiz-237791295/)
 ---
 
